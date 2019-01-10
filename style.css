@@ -1129,7 +1129,7 @@ span{
     }
     
     nav{
-        width: 100%;
+        width: 80%;
     }
     
     header{
@@ -1429,6 +1429,9 @@ span{
     }
     footer{
         width:105%;
+    }
+    body {
+        overflow-x: hidden;
     }
 }
 #info {
