@@ -1129,13 +1129,14 @@ span{
     }
     
     nav{
-        width: 80%;
+        width: 100%;
     }
     
     header{
         background-size: 100% 300px;
         height: 300px;
-        margin: 80px -14px 0px 10px;
+        margin: 80px -36px 0px 10px;
+        /* width: 100%; */
     }
     
     header h1{
